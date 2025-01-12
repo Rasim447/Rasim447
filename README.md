@@ -8,10 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Rasim477)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=gruvbox.svg&username=Rasim477)
-
+<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ -->=Rasim477)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Rasim477)
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
