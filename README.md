@@ -70,7 +70,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Rasim447/Rasim447/refs/heads/main/0aba75484f0.png)
+[<img src="/0aba75484f0.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Rasim447/Rasim447/refs/heads/main/0aba75484f0.png)
 
 
 <br>
