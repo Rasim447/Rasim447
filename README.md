@@ -71,14 +71,14 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://https://raw.githubusercontent.com/Rasim447/Rasim447/refs/heads/main/0aba75484f0.png
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Rasim447/Rasim447/refs/heads/main/0aba75484f0.png)
 
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](legen_2025@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
